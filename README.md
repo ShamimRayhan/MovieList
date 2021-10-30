@@ -1,4 +1,4 @@
 # MovieList
 
-How to run
-  install pod
+Please install pod
+
